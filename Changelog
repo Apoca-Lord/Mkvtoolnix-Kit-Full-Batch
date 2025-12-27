@@ -1,0 +1,56 @@
+Mkvtoolnix-Kit-Full (v6-3) : Info
+-----------------------------------
+Release date : 2025-12-24 by Apoca
+-----------------------------------
+Ajout du batch pour encoder les pistes audios spécifiques
+"Audio-Enco_interactif v1-2b"
+
+Et pour changer les attribut default et forcé de 1 à 2 sous-titres
+forced-subs v3
+
+
+Mkvtoolnix-Kit-Full (v6-2) : Info
+-----------------------------------
+Release date : 2025-12-22 by Apoca
+-----------------------------------
+Lègere correction indication sur plusieurs batch
+Ajout de batchs manuels
+
+
+Mkvtoolnix-Kit-Full (v6-1) : Info
+-----------------------------------
+Release date : 2025-06-28 by Apoca
+-----------------------------------
+Modification de "Change_Title_Lang-Audio-Sub2" à v3
+Permet de parametre, toujours 2 pistes audios et subs, les pistes à defaults et forcés
+
+
+Release date : 2025-05-18 by Apoca
+-----------------------------------
+
+Kit de scripts (bat) pour mkvermege, ffmpeg... complet
+Le tout piloté par un bat "interactif", qui va exécuté les différents bat selectionné.
+Il peut être exécuté, n'importe où.
+
+Permet :
+- Extraire les subs
+- Remux subs et/ou fonts
+- Remux / demux pistes audios
+- Remux Audio-Subs sources
+- Nettoyage des titres
+
+
+-------------------------------
+Introduction :
+Les fichiers pour remux, devront être de meme nom
+DossierA = Filename
+DossierB = Filename
+DossierC = Filemane_trackx.extension
+
+
+
+**V6**
+-Corrections varibles
+-ajout auttres dossier pour renomage subs
+-Ajout remux_Audio-Subs sources
+
