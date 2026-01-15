@@ -82,5 +82,5 @@ Limite de tâches , remux à renouveller en fonctione de la limite de charactèr
 
 ## [Libre d'utilisation](#Info) <br/>
 L'essemble de ce projet à été fait avec l'aide d' l'IA : coopilot et Chatgpt
-Ce projet entièrement gratuit et libre d'accé ; respecter juste la source.
-Si des personnes souhaite, le faire évoluer , ils sont autorisés (éviter juste de faire payé pour peu de changement).
+Ce projet entièrement gratuit et libre d'accé.
+
